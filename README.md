@@ -1,5 +1,1 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haruki-N&theme=cobalt2)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haruki-N&theme=cobalt2)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haruki-N&theme=cobalt2)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=haruki-N&theme=cobalt2)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haruki-N&theme=cobalt2&utcOffset=9)
+
